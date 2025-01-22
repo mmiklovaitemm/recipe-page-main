@@ -7,12 +7,4 @@ This is a responsive recipe page built with semantic HTML and CSS. The project w
 - Semantic HTML for better accessibility
 - Clean and modern layout
 
-## Screenshots:
-
-### Desktop View:
-![Recipe Page](./RecipePage.png)
-
-### Mobile View:
-![Recipe Page Mobile](./RecipePage-Mobile.png)
-
 Feel free to explore and suggest improvements!
